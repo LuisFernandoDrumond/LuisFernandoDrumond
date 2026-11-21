@@ -99,7 +99,7 @@ Em construção. Os repositórios abaixo serão publicados aqui:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luis-fernando-drumond/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=1E90FF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/luis-fernando-drumond/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=1E90FF" alt="LinkedIn"/></a> <a href="https://www.instagram.com/luisfernandodrumond"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=1E90FF" alt="Instagram"/></a>
 
 <br>
 
