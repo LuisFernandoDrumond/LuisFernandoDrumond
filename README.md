@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:0F2D5C,100:1E90FF&height=200&section=header&text=LUIS%20FERNANDO%20DRUMOND&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=DADOS%20%7C%20TECNOLOGIA&descAlignY=60&descSize=15" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=560&height=40&lines=Dados+e+Tecnologia;Python+%7C+Java+%7C+SQL;Google+Data+Analytics+em+andamento;Medalha+de+Ouro+na+OLITEF+2026" alt="Dados e Tecnologia | Python, Java e SQL | Google Data Analytics em andamento | Medalha de Ouro na OLITEF 2026"/>
+
 **Estudante do Ensino Médio em busca de vaga de Jovem Aprendiz ou Estágio em Tecnologia e Dados.**
 
 </div>
